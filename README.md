@@ -1,8 +1,9 @@
 <div align="center">
 
-  <!-- Header Banner Futuristic Neon -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=bg:#0d1117,100:6e40c9,0:00f2fe&height=220&section=header&text=maddpii&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Game%20Developer&descFontSize=20&descAlignY=64" width="100%" alt="Header Banner" />
+  <!-- Header Banner Cyberpunk Neon (Fixed & Stable) -->
+  <img src="https://svg-banners.my.id/api?type=cyberpunk&text=maddpii&width=800&height=200" width="100%" alt="Header Banner" />
 
+  <br />
   <br />
 
   <!-- Dynamic Typing Effect Header -->
@@ -11,7 +12,6 @@
   </a>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=maddpii&style=flat-square&color=6e40c9" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/maddpii?style=flat-square&logo=github&color=00f2fe" alt="GitHub Followers" />
   </p>
 
