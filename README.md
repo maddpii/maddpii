@@ -1,18 +1,18 @@
 <div align="center">
 
-  <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=maddpii&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Game%20Developer&descFontSize=20&descAlignY=62" width="100%" alt="Header Banner" />
+  <!-- Header Banner Futuristic Neon -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=bg:#0d1117,100:6e40c9,0:00f2fe&height=220&section=header&text=maddpii&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Game%20Developer&descFontSize=20&descAlignY=64" width="100%" alt="Header Banner" />
 
   <br />
 
   <!-- Dynamic Typing Effect Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2EA44F&center=true&vcenter=true&width=500&lines=Full-Stack+Web+Development;Game+Logic+%26+Development;Network+%26+System+Engineering;Building+Scalable+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vcenter=true&width=500&lines=Full-Stack+Web+Development;Game+Logic+%26+Development;Network+%26+System+Engineering;Building+Scalable+Applications" alt="Typing SVG" />
   </a>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=maddpii&style=flat-square&color=238636" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/maddpii?style=flat-square&logo=github&color=2ea44f" alt="GitHub Followers" />
+    <img src="https://komarev.com/ghpvc/?username=maddpii&style=flat-square&color=6e40c9" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/maddpii?style=flat-square&logo=github&color=00f2fe" alt="GitHub Followers" />
   </p>
 
 </div>
@@ -21,11 +21,11 @@
 
 ### 👨‍💻 About Me
 
-Hi there! 👋 I am **Ahmad Rafii**, a passionate **Software Engineer** and **Game Developer**. I build full-stack web platforms, manage database architectures, and engineer interactive game logic.
+Hi there! 👋 I am **maddpii**, a passionate **Software Engineer** and **Game Developer**. I build full-stack web platforms, manage database architectures, and engineer interactive game logic.
 
-* 🔭 **Currently Working On:** Full-stack systems, custom web modules, and database optimization.
-* 🕹️ **Game Development:** Designing interactive 2D mechanics, gameplay logic, and state management.
-* ⚡ **Core Focus:** Building robust software solutions with clean code and modern networking standards.
+- 🔭 **Currently Working On:** Full-stack systems, custom web modules, and database optimization.
+- 🕹️ **Game Development:** Designing interactive 2D mechanics, gameplay logic, and state management.
+- ⚡ **Core Focus:** Building robust software solutions with clean code and modern networking standards.
 
 ---
 
@@ -60,12 +60,12 @@ Hi there! 👋 I am **Ahmad Rafii**, a passionate **Software Engineer** and **Ga
 
 <div align="center">
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maddpii&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9" alt="maddpii GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddpii&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=2ea44f&text_color=c9d1d9" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maddpii&show_icons=true&theme=tokyonight&hide_border=true" alt="maddpii GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddpii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Designed with elegance by <b>Ahmad Rafii</b> • Powered by GitHub Markdown</sub>
+  <sub>Designed with elegance by <b>maddpii</b> • Powered by GitHub Markdown</sub>
 </div>
