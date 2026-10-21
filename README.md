@@ -1,34 +1,25 @@
 <div align="center">
 
-  <!-- Header Banner Waving Minimalis & Elegan -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2563eb,100:7c3aed&height=220&section=header&text=maddpii&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Game%20Developer&descFontSize=20&descAlignY=62" width="100%" alt="Header Banner" />
+  <!-- Animasi Banner GIF Tech & Gaming -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-8407-1b1574340d0f.gif" width="100%" alt="Animated Header" />
 
   <br />
   <br />
 
   <!-- Dynamic Typing Effect Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vcenter=true&width=500&lines=Software+Engineer;Game+Developer;Full-Stack+Architect;Building+Interactive+Worlds" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA44F&center=true&vcenter=true&width=500&lines=Software+Engineer;Game+Developer;Full-Stack+Web+Developer;Building+Interactive+Systems" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <img src="https://img.shields.io/github/followers/maddpii?style=for-the-badge&logo=github&color=3b82f6" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/maddpii?style=for-the-badge&logo=github&color=2ea44f" alt="GitHub Followers" />
   </p>
 
 </div>
 
 ---
 
-### 🎮 GitHub Trophies & Stats
-
-<div align="center">
-  <!-- Trophies Display yang Keren ala Gamifikasi -->
-  <img src="https://github-profile-trophy.vercel.app/?username=maddpii&theme=tokyonight&no-bg=true&margin-w=4&margin-h=4" width="100%" alt="GitHub Trophies" />
-</div>
-
----
-
-### 👨‍💻 About Me
+### ⚡ About Me
 
 Hi there! 👋 I am **maddpii**, a passionate **Software Engineer** and **Game Developer**. I build full-stack web platforms, manage database architectures, and engineer interactive game logic.
 
@@ -54,13 +45,26 @@ Hi there! 👋 I am **maddpii**, a passionate **Software Engineer** and **Game D
 <br />
 
 <div align="center">
-  <!-- Skill Badges -->
+  <!-- Skill Badges Animated Hover -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+---
+
+### 🐍 Contribution Snake Animation
+
+<div align="center">
+  <!-- Gambar Animasi Ular yang Memakan Kotak Kontribusi -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maddpii/maddpii/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maddpii/maddpii/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maddpii/maddpii/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
