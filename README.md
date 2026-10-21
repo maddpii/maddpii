@@ -1,14 +1,14 @@
 <div align="center">
 
-  <!-- Header Banner Pixel City / Space Animated GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWd0Nm5ydDFnYmx6ZjR3ZGFyOHZ2ZWd3bzQxZXg2Yms1dzZ2eWZqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svv20Nv523/giphy.gif" width="100%" height="240px" style="object-fit: cover; border-radius: 8px;" alt="Cyberpunk City Animated Banner" />
+  <!-- Header Banner Pixel Animation (Host GitHub Resmi - Dijamin Muncul) -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-8407-1b1574340d0f.gif" width="100%" alt="Header Banner" />
 
   <br />
   <br />
 
   <!-- Dynamic Typing Effect Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=16&pause=1000&color=00F2FE&center=true&vcenter=true&width=550&lines=Software+Engineer;Game+Developer;Full-Stack+Architect;Building+Interactive+Worlds" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vcenter=true&width=500&lines=Software+Engineer;Game+Developer;Full-Stack+Architect;Building+Interactive+Worlds" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -26,19 +26,6 @@ Hi there! 👋 I am **maddpii**, a passionate **Software Engineer** and **Game D
 * 🔭 **Currently Working On:** Full-stack systems, custom web modules, and database optimization.
 * 🕹️ **Game Development:** Designing interactive 2D mechanics, gameplay logic, and state management.
 * ⚡ **Core Focus:** Building robust software solutions with clean code and modern networking standards.
-
----
-
-### 🚀 Retro Game Contribution / Activity
-
-<div align="center">
-
-  <!-- Animasi Pesawat Space Invaders / Retro Game Animation -->
-  <a href="https://github.com/maddpii">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=maddpii&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
-  </a>
-
-</div>
 
 ---
 
