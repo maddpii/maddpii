@@ -1,18 +1,18 @@
 <div align="center">
 
-  <!-- Header Banner Tema Minimalist Dark Blue -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1e293b,100:3b82f6&height=220&section=header&text=maddpii&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Game%20Developer&descFontSize=20&descAlignY=62" width="100%" alt="Header Banner" />
+  <!-- Header Banner Pixel/Gaming Style -->
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:7c3aed,100:db2777&height=220&section=header&text=maddpii&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Game%20Developer&descFontSize=20&descAlignY=62" width="100%" alt="Header Banner" />
 
   <br />
   <br />
 
   <!-- Dynamic Typing Effect Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vcenter=true&width=500&lines=Full-Stack+Web+Development;Game+Logic+%26+Development;Network+%26+System+Engineering;Building+Scalable+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=EC4899&center=true&vcenter=true&width=500&lines=Full-Stack+Web+Development;Game+Logic+%26+Development;Network+%26+System+Engineering;Building+Scalable+Applications" alt="Typing SVG" />
   </a>
 
   <p>
-    <img src="https://img.shields.io/github/followers/maddpii?style=flat-square&logo=github&color=3b82f6" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/maddpii?style=flat-square&logo=github&color=db2777" alt="GitHub Followers" />
   </p>
 
 </div>
