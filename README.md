@@ -67,5 +67,5 @@ Hi there! 👋 I am **Ahmad Rafii**, a passionate **Software Engineer** and **Ga
 ---
 
 <div align="center">
-  <sub>Designed with elegance by <b>maddpii</b> • Powered by GitHub Markdown</sub>
+  <sub>Designed with elegance by <b>Ahmad Rafii</b> • Powered by GitHub Markdown</sub>
 </div>
