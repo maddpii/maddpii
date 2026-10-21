@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Header Banner Cyberpunk Neon (Anti-Error & Stabil) -->
+  <!-- Header Banner Waving Minimalis & Elegan -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2563eb,100:7c3aed&height=220&section=header&text=maddpii&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Game%20Developer&descFontSize=20&descAlignY=62" width="100%" alt="Header Banner" />
 
   <br />
@@ -19,11 +19,11 @@
 
 ---
 
-### 🕹️ Retro Pac-Man Contribution Activity
+### 🎮 GitHub Trophies & Stats
 
 <div align="center">
-  <!-- Grafik Animasi Pac-Man Retro Arcade -->
-  <img src="https://raw.githubusercontent.com/maddpii/maddpii/main/github-metrics.svg" onerror="this.src='https://github-readme-activity-graph.vercel.app/graph?username=maddpii&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117'" width="100%" alt="Pacman Activity Graph" />
+  <!-- Trophies Display yang Keren ala Gamifikasi -->
+  <img src="https://github-profile-trophy.vercel.app/?username=maddpii&theme=tokyonight&no-bg=true&margin-w=4&margin-h=4" width="100%" alt="GitHub Trophies" />
 </div>
 
 ---
