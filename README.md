@@ -1,14 +1,14 @@
 <div align="center">
 
-  <!-- Header Banner Cyberpunk / Retro Gaming Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b82f6,100:8b5cf6&height=220&section=header&text=maddpii&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Game%20Developer&descFontSize=20&descAlignY=62" width="100%" alt="Header Banner" />
+  <!-- Header Banner Cyberpunk Neon (Anti-Error & Stabil) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2563eb,100:7c3aed&height=220&section=header&text=maddpii&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Game%20Developer&descFontSize=20&descAlignY=62" width="100%" alt="Header Banner" />
 
   <br />
   <br />
 
   <!-- Dynamic Typing Effect Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vcenter=true&width=550&lines=Software+Engineer;Game+Developer;Full-Stack+Web+Developer;Building+Interactive+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vcenter=true&width=500&lines=Software+Engineer;Game+Developer;Full-Stack+Architect;Building+Interactive+Worlds" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -19,15 +19,11 @@
 
 ---
 
-### 🕹️ Interactive Retro Activity Graph (Pengganti Ular)
+### 🕹️ Retro Pac-Man Contribution Activity
 
 <div align="center">
-
-  <!-- Graphic Wave Activity Card pengganti animasi ular -->
-  <a href="https://github.com/maddpii">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=maddpii&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117" width="100%" alt="maddpii Contribution Activity Graph" />
-  </a>
-
+  <!-- Grafik Animasi Pac-Man Retro Arcade -->
+  <img src="https://raw.githubusercontent.com/maddpii/maddpii/main/github-metrics.svg" onerror="this.src='https://github-readme-activity-graph.vercel.app/graph?username=maddpii&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117'" width="100%" alt="Pacman Activity Graph" />
 </div>
 
 ---
