@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Header Banner Cyberpunk Neon (Fixed & Stable) -->
-  <img src="https://svg-banners.my.id/api?type=cyberpunk&text=maddpii&width=800&height=200" width="100%" alt="Header Banner" />
+  <!-- Header Banner Standard & 100% Aman dari Error -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,30&height=220&section=header&text=maddpii&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Game%20Developer&descFontSize=20&descAlignY=62" width="100%" alt="Header Banner" />
 
   <br />
   <br />
