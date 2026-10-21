@@ -1,25 +1,38 @@
 <div align="center">
 
-  <!-- Header Banner Pixel Animation (Host GitHub Resmi - Dijamin Muncul) -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-8407-1b1574340d0f.gif" width="100%" alt="Header Banner" />
+  <!-- Header Banner Cyberpunk / Retro Gaming Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b82f6,100:8b5cf6&height=220&section=header&text=maddpii&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Game%20Developer&descFontSize=20&descAlignY=62" width="100%" alt="Header Banner" />
 
   <br />
   <br />
 
   <!-- Dynamic Typing Effect Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vcenter=true&width=500&lines=Software+Engineer;Game+Developer;Full-Stack+Architect;Building+Interactive+Worlds" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vcenter=true&width=550&lines=Software+Engineer;Game+Developer;Full-Stack+Web+Developer;Building+Interactive+Systems" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <img src="https://img.shields.io/github/followers/maddpii?style=for-the-badge&logo=github&color=00f2fe" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/maddpii?style=for-the-badge&logo=github&color=3b82f6" alt="GitHub Followers" />
   </p>
 
 </div>
 
 ---
 
-### 👾 About Me
+### 🕹️ Interactive Retro Activity Graph (Pengganti Ular)
+
+<div align="center">
+
+  <!-- Graphic Wave Activity Card pengganti animasi ular -->
+  <a href="https://github.com/maddpii">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=maddpii&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117" width="100%" alt="maddpii Contribution Activity Graph" />
+  </a>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
 
 Hi there! 👋 I am **maddpii**, a passionate **Software Engineer** and **Game Developer**. I build full-stack web platforms, manage database architectures, and engineer interactive game logic.
 
