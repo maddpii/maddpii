@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Banner GIF Animasi Tech & Gaming (Diperbesar & Lebih Panjang/Impresif) -->
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/git.gif" width="100%" style="border-radius: 14px; box-shadow: 0 0 20px rgba(0,242,254,0.3);" alt="Animated Tech Header" />
+  <!-- Header Banner Neon Cyberpunk (Panjang, Estetik, 100% Anti-Error) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1e1b4b,70:4c1d95,100:00f2fe&height=260&section=header&text=Ahmad%20Rafii&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Game%20Developer&descFontSize=20&descAlignY=60" width="100%" alt="Ahmad Rafii Header Banner" />
 
   <br />
   <br />
@@ -14,11 +14,10 @@
   <br />
   <br />
 
-  <!-- Extra Visual Badges & Visitor Counter -->
+  <!-- Visual Badges (Gaya Flat Square & Color Matching) -->
   <p align="center">
     <img src="https://img.shields.io/github/followers/maddpii?style=for-the-badge&logo=github&color=00f2fe&logoColor=white" alt="GitHub Followers" />
-    <img src="https://komarev.com/ghpvc/?username=maddpii&style=for-the-badge&color=7c3aed&label=Profile+Views" alt="Visitor Count" />
-    <img src="https://img.shields.io/badge/Status-Online-%232ea44f?style=for-the-badge&logo=coffeescript" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Online-2ea44f?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Status" />
   </p>
 
 </div>
@@ -51,7 +50,7 @@ Hi there! 👋 I am **Ahmad Rafii**, a passionate **Software Engineer** and **Ga
 <br />
 
 <div align="center">
-  <!-- Skill Badges Animated Hover -->
+  <!-- Skill Badges -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
