@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Animasi Banner GIF Tech & Gaming -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-8407-1b1574340d0f.gif" width="100%" alt="Animated Header" />
+  <!-- Banner GIF Animasi Tech & Coding Premium -->
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/git.gif" width="100%" style="border-radius: 12px;" alt="Animated Tech Header" />
 
   <br />
   <br />
@@ -23,9 +23,9 @@
 
 Hi there! 👋 I am **Ahmad Rafii**, a passionate **Software Engineer** and **Game Developer**. I build full-stack web platforms, manage database architectures, and engineer interactive game logic.
 
-* 🔭 **Currently Working On:** Full-stack systems, custom web modules, and database optimization.
-* 🕹️ **Game Development:** Designing interactive 2D mechanics, gameplay logic, and state management.
-* ⚡ **Core Focus:** Building robust software solutions with clean code and modern networking standards.
+- 🔭 **Currently Working On:** Full-stack systems, custom web modules, and database optimization.
+- 🕹️ **Game Development:** Designing interactive 2D mechanics, gameplay logic, and state management.
+- ⚡ **Core Focus:** Building robust software solutions with clean code and modern networking standards.
 
 ---
 
