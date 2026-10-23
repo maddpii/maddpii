@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner Neon Cyberpunk (Panjang, Estetik, 100% Anti-Error) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1e1b4b,70:4c1d95,100:00f2fe&height=260&section=header&text=Ahmad%20Rafii&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Game%20Developer&descFontSize=20&descAlignY=60" width="100%" alt="Ahmad Rafii Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1e1b4b,70:4c1d95,100:00f2fe&height=260&section=header&text=Ahmad%20Rafii&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Game%20Developer&descFontSize=20&descAlignY=60" width="100%" alt="Ahmad Rafii Header Banner" />
 
   <br />
   <br />
