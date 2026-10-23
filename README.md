@@ -8,7 +8,7 @@
 
   <!-- Dynamic Typing Effect Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vcenter=true&width=550&lines=Software+Engineer;Game+Developer;Full-Stack+Web+Developer;Building+Interactive+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vcenter=true&width=550&lines=Software+Developer;Game+Developer;Full-Stack+Web+Developer;Building+Interactive+Systems" alt="Typing SVG" />
   </a>
 
   <br />
@@ -26,7 +26,7 @@
 
 ### ⚡ About Me
 
-Hi there! 👋 I am **Ahmad Rafii**, a passionate **Software Engineer** and **Game Developer**. I build full-stack web platforms, manage database architectures, and engineer interactive game logic.
+Hi there! 👋 I am **Ahmad Rafii**, a passionate **Software Developer** and **Game Developer**. I build full-stack web platforms, manage database architectures, and engineer interactive game logic.
 
 - 🔭 **Currently Working On:** Full-stack systems, custom web modules, and database optimization.
 - 🕹️ **Game Development:** Designing interactive 2D mechanics, gameplay logic, and state management.
