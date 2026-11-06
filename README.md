@@ -1,19 +1,4 @@
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *" # Jalankan setiap 12 jam
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3<div align="center">
+<div align="center">
 
   <!-- Header Banner Neon Cyberpunk (Panjang, Estetik, 100% Anti-Error) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1e1b4b,70:4c1d95,100:00f2fe&height=260&section=header&text=Ahmad%20Rafii&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Game%20Developer&descFontSize=20&descAlignY=60" width="100%" alt="Ahmad Rafii Header Banner" />
@@ -102,18 +87,3 @@ Hi there! 👋 I am **Ahmad Rafii**, a passionate **Software Developer** and **G
 <div align="center">
   <sub>Designed with elegance by <b>maddpii</b> • Powered by GitHub Markdown</sub>
 </div>
-
-        id: snake-gif
-        with:
-          github_user_name: maddpii
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
